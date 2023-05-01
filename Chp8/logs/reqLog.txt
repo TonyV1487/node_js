@@ -28,3 +28,5 @@
 20230425	17:25:55	29196314-628c-42b0-8d93-7fd700c63f87	POST	undefined	/employees
 20230425	17:27:31	30e50ec4-2057-4d48-8efb-7e93bb2bf27b	DELETE	undefined	/employees
 20230425	17:27:56	891f27c5-8683-4fbf-ab67-ea6a1e1ec4ca	GET	undefined	/employees/1
+20230428	08:35:31	04cc1b01-4496-475a-94e7-1e45ae4f8d2e	GET	undefined	/css/style.css
+20230428	08:35:31	b678481c-9b0d-43bd-b356-56ff6c155bbf	GET	undefined	/img/img1.jpg
